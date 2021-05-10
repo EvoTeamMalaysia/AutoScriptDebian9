@@ -1,9 +1,9 @@
-<h1 align="center"> VPS AutoScript Debian 9 <img src="https://img.shields.io/badge/Version-1.2-blue.svg"></h1>
+<h1 align="center"> VPS AutoScript Debian 9&10 <img src="https://img.shields.io/badge/Version-1.2-blue.svg"></h1>
 
-<p align="center">VPS AutoScript is made by FordSenpai Remodified by PR Aiman for Virtual Private Network</p>
+<p align="center">VPS AutoScript is made by FordSenpai Remodified by ArashiTeam for Virtual Private Network</p>
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a> <a><img src="https://img.shields.io/badge/Support-Debian%210-red.svg"></a>
   
 </p>
 <h3 align="center">Services</h3>
@@ -34,7 +34,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-<pre>apt update && apt upgrade && wget https://raw.githubusercontent.com/praiman99/AutoScriptDebian9/master/DB && chmod +x DB && ./DB
+<pre>apt update && apt upgrade && wget https://raw.githubusercontent.com/Kuro-Shion0329/AutoScriptDebian9/master/DB && chmod +x DB && ./DB
 </pre></p>
 After Install Please Reboot Before Used
 <h3 align="center">Installation OpenVPN-Monitor</h3>
@@ -58,11 +58,9 @@ Credit To : https://github.com/johndesu090/AutoScriptDeb8 (Orignal Script Menu)
 
 Credit To : https://github.com/Bonveio/BonvScripts (Orignal Script OpenVPN Monitor)
 
-Contact Me : https://t.me/PR_Aiman
-
-<h3 align="center">Thanks to ALLAH S.W.T alhamdulillah syukur kehadrat illahi atas kepandaian dan kebijaksanaan yang telah di berikan daripada maha pencipta. semoga segala urusan di masa akan datang dipermudahkan</h3>
+Contact Me : https://t.me/ShionArashi
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-PR%20Aiman%20AutoScriptDebian9%202021.%20All%20rights%20reserved...-green.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-ArashiTeam%20AutoScriptDebian9%202021.%20All%20rights%20reserved...-green.svg" style="max-width:200%;">
     </p>
    </p>
