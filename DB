@@ -2,15 +2,15 @@
 # Orignal Script JohnFordTV's VPN Premium Script
 # © Github.com/johndesu090
 # Orignal Repository: https://github.com/johndesu090/AutoScriptDB
-# Modified By PR Aiman
-# Telegram: https://t.me/PR_Aiman
+# Modified By ArashiTeam
+# Telegram: https://t.me/ShionArashi
 # Thanks for using this script, Enjoy Highspeed OpenVPN Service
 
 #############################
 #############################
 # Variables (Can be changed depends on your preferred values)
 # Script name
-MyScriptName='Revolution Become True'
+MyScriptName='EvoTeam Managed By ArashiTeam'
 
 # OpenSSH Ports
 SSH_Port1='22'
